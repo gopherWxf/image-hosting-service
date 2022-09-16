@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "http://127.0.0.1/static/css/main.e58c6c20.chunk.css",
+    "main.js": "http://127.0.0.1/static/js/main.4bd2c629.chunk.js",
+    "main.js.map": "http://127.0.0.1/static/js/main.4bd2c629.chunk.js.map",
+    "runtime-main.js": "http://127.0.0.1/static/js/runtime-main.aa843a8e.js",
+    "runtime-main.js.map": "http://127.0.0.1/static/js/runtime-main.aa843a8e.js.map",
+    "static/js/2.e76ab6c9.chunk.js": "http://127.0.0.1/static/js/2.e76ab6c9.chunk.js",
+    "static/js/2.e76ab6c9.chunk.js.map": "http://127.0.0.1/static/js/2.e76ab6c9.chunk.js.map",
+    "static/js/3.808ae9ee.chunk.js": "http://127.0.0.1/static/js/3.808ae9ee.chunk.js",
+    "static/js/3.808ae9ee.chunk.js.map": "http://127.0.0.1/static/js/3.808ae9ee.chunk.js.map",
+    "index.html": "http://127.0.0.1/index.html",
+    "static/css/main.e58c6c20.chunk.css.map": "http://127.0.0.1/static/css/main.e58c6c20.chunk.css.map",
+    "static/js/2.e76ab6c9.chunk.js.LICENSE.txt": "http://127.0.0.1/static/js/2.e76ab6c9.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "http://127.0.0.1/static/media/reg-form.4eb10b89.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa843a8e.js",
+    "static/js/2.e76ab6c9.chunk.js",
+    "static/css/main.e58c6c20.chunk.css",
+    "static/js/main.4bd2c629.chunk.js"
+  ]
+}
